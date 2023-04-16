@@ -37,3 +37,17 @@
 
 // Решение:
 
+// Console.Write("Введите чило не меньше 100: ");
+// int num = Convert.ToInt32(Console.ReadLine());
+// string str = num.ToString();
+// if (num >= 100)
+// {
+//     Console.WriteLine ($"Третья цифра числа {num} - {str[2]}");
+// }
+// else
+// {
+//     Console.WriteLine("Введенное число меньше 100, повторите попытку");
+// }
+
+//============================================================
+
